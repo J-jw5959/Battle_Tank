@@ -2464,3 +2464,16 @@ Scale3D: 1.000000 1.000000 1.000000
 [2019.07.30-09.40.10:082][503]LogFileHelpers: Saving map 'BattleGround' took 0.701
 [2019.07.30-09.40.10:092][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/Tank/Tank_BP.uasset" SILENT=true
 [2019.07.30-09.40.10:120][503]LogSavePackage: Moving '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Saved/Tank_BP66DEA99D4B713AB1368AEE9396CC9B67.tmp' to '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/Tank/Tank_BP.uasset'
+[2019.07.30-09.49.23:987][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.30-09.49.24:086][454]BlueprintLog: New page: Tank_BP 컴파일
+[2019.07.30-09.49.24:308][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.07.30-09.49.27:584][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tank/Tank_BP" FILE="../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/Tank/Tank_BP.uasset" SILENT=true
+[2019.07.30-09.49.27:618][828]LogSavePackage: Moving '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Saved/Tank_BP4B26626248B3B3846FE7C69F74401EA4.tmp' to '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/Tank/Tank_BP.uasset'
+[2019.07.30-09.49.29:316][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-09.49.31:218][164]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.30-09.49.31:810][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.07.30-09.49.31:816][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.30-09.49.31:823][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BattleGround" FILE="../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/BattleGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.30-09.49.31:871][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.07.30-09.49.32:485][225]LogSavePackage: Moving '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Saved/BattleGround70DED69B4D2AD3748D5F24B7C5BDC056.tmp' to '../../../../../../Users/jwjeon/Documents/Battle_Tank/BattleTank/Content/BattleGround.umap'
+[2019.07.30-09.49.32:514][225]LogFileHelpers: Saving map 'BattleGround' took 0.692
